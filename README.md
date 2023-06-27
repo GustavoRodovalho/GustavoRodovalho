@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GustavoRodovalho
 - 👀 I’m interested in: Computers and Geosciences.
-- 🌱 I’m currently learning: NodeJS.
+- 🌱 I’m currently learning: MATLAB.
 - 💞️ I’m looking to collaborate on: artificial intelligence.
 - 📫 How to reach me: gustawhat@gmail.com
 
